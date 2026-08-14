@@ -19,7 +19,7 @@ export const About: React.FC = () => {
                     className="text-center mb-12"
                 >
                     <h2 className="text-4xl sm:text-5xl font-bold mb-4 text-white/90">
-                        About <span className="gradient-text">VyomGarud</span>
+                        About <span className="gradient-text">AEROVEX</span>
                     </h2>
                     {/* This subtle divider is more professional than a solid color */}
                     <div className="w-24 h-1 bg-linear-to-r from-charcoal-light via-orange to-charcoal-light mx-auto"></div>
@@ -52,7 +52,7 @@ export const About: React.FC = () => {
                             transition={{ type: "spring", delay:0.2, stiffness: 100, damping: 10 }}
                         >
                             <p className="text-white/70 leading-relaxed mb-6">
-                                VyomGarud is at the forefront of unmanned aerial vehicle technology,
+                                AEROVEX is at the forefront of unmanned aerial vehicle technology,
                                 delivering military-grade solutions that redefine precision, reliability,
                                 and autonomous capabilities in critical defense operations.
                             </p>
