@@ -13,10 +13,10 @@ import {
 } from 'lucide-react';
 
 export const COMPANY_INFO: CompanyInfo = {
-  name: "VyomGarud",
+  name: "AEROVEX",
   tagline: "Precision Engineering. Advanced Autonomy. Unmatched Reliability.",
   description: "Leading the future of unmanned aerial systems with military-grade precision and cutting-edge autonomous technology designed for critical defense operations.",
-  email: "contact@vyomgarud.com",
+  email: "contact@aerovex.com",
   phone: "+91 1234567890",
 };
 
@@ -71,9 +71,9 @@ export const HIGHLIGHTS: Highlight[] = [
 ];
 
 export const SOCIAL_LINKS: SocialLinks = {
-  linkedin: "https://linkedin.com/company/vyomgarud",
-  twitter: "https://twitter.com/vyomgarud",
-  github: "https://github.com/vyomgarud",
+  linkedin: "https://linkedin.com/company/aerovex",
+  twitter: "https://twitter.com/aerovex",
+  github: "https://github.com/aerovex",
 };
 
 export const NAV_LINKS = [
