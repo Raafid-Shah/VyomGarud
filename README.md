@@ -1,6 +1,6 @@
-# VyomGarud
+# AEROVEX
 
-VyomGarud is a modern UAV systems website built with Next.js, Tailwind CSS, and Framer Motion.  
+AEROVEX is a modern UAV systems website built with Next.js, Tailwind CSS, and Framer Motion.  
 It features a defense-themed, militaristic aesthetic with tactical animations, neon-inspired highlights, and smooth scroll interactions.
 
 ## Features
@@ -26,5 +26,5 @@ It features a defense-themed, militaristic aesthetic with tactical animations, n
 
 ### Clone the repository
 ```bash
-git clone https://github.com/LLamaSan/vyomgarud.git
-cd vyomgarud
+git clone https://github.com/LLamaSan/aerovex.git
+cd aerovex
